@@ -1,6 +1,41 @@
 # React + TypeScript + Vite
+# Cafe Feedback App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Description
+
+Cafe Feedback App is a React application that allows users to leave feedback about a coffee shop.  
+Users can choose one of three feedback options: **good**, **neutral**, or **bad**, and see the feedback statistics.
+
+## 🚀 Live Demo
+
+[View Demo](https://02-react-cafe-lac-tau.vercel.app/)
+
+## 🛠 Technologies
+
+- React
+- TypeScript
+- Vite
+- CSS
+
+## ✨ Features
+
+- Leave feedback using three options: good, neutral, bad
+- Display feedback statistics
+- Calculate total feedback
+- Calculate positive feedback percentage
+- Reset feedback statistics when needed
+- Responsive and simple user interface
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/AndriiT888/02-react-cafe.git
+cd 02-react-cafe
+npm install
+npm run dev
+
+
+Also this template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
